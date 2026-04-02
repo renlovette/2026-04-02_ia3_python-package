@@ -1,4 +1,4 @@
-# Welcome to pyospackage-ia
+# Welcome to pyospackage_ia
 
 |        |        |
 |--------|--------|
@@ -15,7 +15,7 @@ pyospackage-ia is a project that (describe what it does here).
 You can install this package into your preferred Python environment using pip:
 
 ```bash
-$ pip install pyospackage-ia
+$ pip install pyospackage_ia
 ```
 
 TODO: Add a brief example of how to use the package to this section
@@ -23,8 +23,8 @@ TODO: Add a brief example of how to use the package to this section
 To use pyospackage-ia in your code:
 
 ```python
->>> import pyospackage-ia
->>> pyospackage-ia.hello_world()
+>>> import pyospackage_ia
+>>> pyospackage_ia.hello_world()
 ```
 
 ## Copyright
